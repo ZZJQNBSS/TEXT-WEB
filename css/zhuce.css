@@ -1,0 +1,137 @@
+html,body{
+    width: 100%;
+}
+.main{
+    width: 1196px;
+    margin: 0 auto;
+}
+/* 头部 */
+.header{
+    background-color: #fff;
+    height: 84px;
+}
+.header img{
+    width: 245px;
+    height: 40px;
+    padding: 23px 0 5px;
+}
+/* 主要内容 */
+.module{
+    background-color: #000;
+    height: 495px;
+}
+.login-box{
+    width: 346px;
+    height: 370px;
+    border: 8px solid #ccc;
+    background-color: #fff;
+    margin: auto;
+    position: relative;
+    top: 50px;
+}
+.login-1{
+    height: 46px;
+    border-bottom: 1px solid #ccc;
+}
+.login-1 h2{
+    text-align: center;
+    line-height: 46px;
+    color: orangered;
+    border-bottom: 1px solid orangered;
+}
+.login-2{
+    text-align: center;
+    margin-top: 30px;
+}
+.login-2 ul{
+    display: block;
+    padding-inline-start: 40px;
+}
+.login-2 ul li{
+    width: 270px;
+    height: 36px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
+.login-2 ul li:nth-of-type(1) input,.login-2 ul li:nth-of-type(2) input{
+    width: 220px;
+    line-height: 28px;
+    margin-top: 4px;
+    border: none;
+    outline: none;
+}
+.login-2 ul li:nth-of-type(3){
+    height: 20px;
+    border: none;
+}
+.login-2 ul li:nth-of-type(4){
+    margin-top: 30px;
+    border: none;
+}
+.login-2 ul li:nth-of-type(4) input{
+    width: 270px;
+    line-height: 36px;
+    background-color: orangered;
+    color: #fff;
+    font-size: 18px;
+}
+/* 页脚 */
+.footer{
+    background-color: #333;
+    height: 170px;
+}
+.footer-nav{
+    text-align: center;
+    font-size: 14px;
+}
+.footer-nav p{
+    padding-top: 20px;
+}
+.footer-nav p a{
+    color: #fff;
+    padding: 0 20px;
+}
+.footer-phone{
+    margin-top: 35px;
+    text-align: center;
+}
+.footer-phone p span{
+    color: #fff;
+    font-size: 30px;
+    padding: 15px 0 0 20px;
+    width: 1196px;
+    text-align: center;
+    position: relative;
+    top: 10px;
+}
+/* 底部 */
+.bottom1{
+    height: 156px;
+    background-color: #333;
+}
+.bottom-link{
+    border-top: 1px dashed #ccc;
+    text-align: center;
+}
+.bottom-link p{
+    margin-top: 10px;
+    color: #999;
+}
+.bottom-link p a{
+    font-size: 12px;
+    color: #999;
+    padding: 0 5px;
+    margin:  0 0 5px;
+    border-left: 1px solid #999;
+}
+.bottom-link p a:nth-child(1){
+   border-left: none;
+}
+.bottom-copy{
+    margin-top: 10px;
+}
+.bottom-copy p{
+    color: #999;
+    font-size: 12px;
+    text-align: center;
+}

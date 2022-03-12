@@ -1,0 +1,51 @@
+{
+  "id": "2247788",
+  "name": "wansi",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5846994",
+      "name": "右箭头",
+      "font_class": "right-arrow",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "8457848",
+      "name": "右箭头",
+      "font_class": "right",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "370334",
+      "name": "垃圾箱",
+      "font_class": "lajixiang",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "15397830",
+      "name": "删除选中项",
+      "font_class": "shanchuxuanzhongxiang",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "5619347",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "14455829",
+      "name": "账号",
+      "font_class": "zhanghao",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    }
+  ]
+}
